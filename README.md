@@ -15,10 +15,6 @@
 
 
 
-
-
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-moyato-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/moyato) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:moyatoatwork@gmail.com)
-
 ---
 
 ### 💻 Технологии:
@@ -45,3 +41,7 @@
 
 ![codewars](https://www.codewars.com/users/IvanDavydenkov/badges/large)
 
+
+### Контакты
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-moyato-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/moyato) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:moyatoatwork@gmail.com)
