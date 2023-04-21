@@ -41,6 +41,8 @@
 
 ![codewars](https://www.codewars.com/users/IvanDavydenkov/badges/large)
 
+---
+
 
 ### :mailbox: Контакты
 
@@ -48,3 +50,5 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:moyatoatwork@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5)](https://www.linkedin.com/in/ivan-davydenkov-46a877263/)
 [![Habr Badge](https://img.shields.io/badge/-Habr-red?style=flat&logo=habr&logoColor=white)](https://career.habr.com/moyato27)
+
+---
